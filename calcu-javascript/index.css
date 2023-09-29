@@ -1,0 +1,21 @@
+.calculator {
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color:burlywood;
+}
+input[type="button"] {
+    width: 45px;
+    height: 45px;
+    font-size: 18px;
+    margin: 5px;
+}
+body{
+    background:bisque;
+}
+.text{
+    font-family: cursive;
+    color: burlywood;
+}
